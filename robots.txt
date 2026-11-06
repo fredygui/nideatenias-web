@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fredygui.github.io/nideatenias-web/sitemap.xml
