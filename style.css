@@ -1,0 +1,4 @@
+:root{--bg:#1d1a2b;--fg:#f0ecf7;--am:#feae00;--mut:#a59fbb}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 system-ui,sans-serif}
+main{max-width:720px;margin:0 auto;padding:48px 16px}h1{font-size:2rem;line-height:1.2}h1 b{color:var(--am)}
+h2{color:var(--am);font-size:1.15rem;margin-top:2em}a{color:var(--am)}.mut{color:var(--mut)}
